@@ -6,7 +6,7 @@ export const customerReviews = [
       "message": "Tru-Ride transformed my travel experience! The drivers were professional, and the rides were incredibly convenient."
     },
     {
-      "name": "John Doe",
+      "name": "John Down",
       "location": "Mombasa, Kenya",
       "message": "I found the perfect driver for my needs through Tru-Ride. The personalized service made all the difference. Thank you for prioritizing my comfort!"
     },
