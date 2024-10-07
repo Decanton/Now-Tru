@@ -19,7 +19,7 @@ function Navbar() {
 
   const handleChatBtnClick = () => {
     if (!isButtonDisabled) {
-      toast.info("Experiencing high traffic, Please wait a moment.", {
+      toast.info("Experiencing high traffic, Please wait a moment kindly.", {
         position: toast.POSITION.TOP_CENTER,
         onOpen: () => setIsButtonDisabled(true),
         onClose: () => setIsButtonDisabled(false),

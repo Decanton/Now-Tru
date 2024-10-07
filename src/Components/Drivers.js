@@ -16,7 +16,7 @@ function Drivers() {
 
         <p className="dt-description">
         Meet our outstanding team of drivers, committed to providing safe and reliable transportation with TruRide.
-        Trust in their experience and local knowledge to ensure you reach your destination comfortably and on time. Whether it's a daily commute or an adventure, our drivers are here to make your ride smooth, efficient, and enjoyable.
+        Trust in their experience and local knowledge to ensure you reach your n destination comfortably and on time. Whether it's a daily commute or an adventure, our drivers are here to make your ride smooth, efficient, and enjoyable.
         </p>
       </div>
 
