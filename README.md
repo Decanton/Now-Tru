@@ -13,13 +13,7 @@ Responsive design for seamless user experience.
 Notifications with React-Toastify and routing via React Router DOM.
 Deployment
 Access the site at Tru-Ride.
-
-Getting Started
-Clone the repository: git clone https://github.com/Decanton/Tru-Ride.git
-Navigate: cd Tru-Ride
-Install: npm install
-Start: npm start
-Visit: http://localhost:3000
+calhost:3000
 Contributing
 Contributions welcome! Open issues or submit pull requests.
 
